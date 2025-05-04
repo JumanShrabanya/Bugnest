@@ -26,7 +26,7 @@ export default function Navbar() {
                 className="border-blue-500 text-gray-900 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
               >
                 <Home className="h-4 w-4 mr-1" />
-                Dashboard
+                Home
               </Link>
               <Link
                 href="/solve"

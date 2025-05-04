@@ -4,14 +4,14 @@ import React from "react";
 
 const Herosection = () => {
   return (
-    <div className="mb-12 py-8 border-b border-gray-100">
+    <div className="mb-5 py-8">
       <div className="text-center">
         <div className="inline-flex items-center justify-center bg-blue-50 rounded-full px-3 py-1 text-sm font-medium text-indigo-700 mb-4">
           <Bug className="h-4 w-4 mr-1" />
           Bug Tracking Made Simple
         </div>
         <h1 className="text-4xl font-bold text-gray-900 tracking-tight mb-3">
-          Welcome to <span className="text-indigo-600">BugTracker</span>
+          Welcome to <span className="text-indigo-600">BugNest</span>
         </h1>
         <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
           BugNest is a bug tracking platform that helps developers and teams
